@@ -1,0 +1,10 @@
+
+# # # Informatik Aufgaben # # #
+
+// 1. Definieren Sie zwei Int Variablen
+
+// 2. Die definierten Int Variablen addieren und miteinander multiplizeiren.
+
+// 3. Eine neue Variable erstellen, die das Ergebnis von 2. beinhaltet.
+
+ 
