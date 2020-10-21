@@ -8,6 +8,11 @@
 
 // 2. Die definierten Int Variablen addieren und miteinander multiplizeiren.
 
+	int z = y + x
+	z = z*z
+
 // 3. Eine neue Variable erstellen, die das Ergebnis von 2. beinhaltet.
+
+	//Wurde in Aufgabe zwei schon erledigt.
 
  
